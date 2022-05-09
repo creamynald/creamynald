@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @creamynald
-- 👀 I’m interested in android development
+- 👀 I’m interested in full stack developer
 - 💞️ I’m looking to collaborate with woman xD
 - 📫 hit me on creamynald@gmail.com
 
